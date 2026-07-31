@@ -103,24 +103,6 @@ The training objective combines a **flow-matching velocity loss** with a **FLOPs
 
 ---
 
-## 🖼️ Visual Overview
-
-> Place the corresponding figure files (exported from the paper) inside an `assets/` folder at the repository root so the images below render correctly on GitHub.
-
-| System Architecture | Trajectory Segmentation Analysis |
-|---|---|
-| ![HE-DiT Architecture](assets/Methodology.png) | ![Trajectory Segmentation](assets/trajectory_segmentation.png) |
-
-| Stage-Specific Pruning Masks | Cost Reduction Dashboard |
-|---|---|
-| ![Pruning Masks](assets/pruning_masks.png) | ![Cost Dashboard](assets/cost_dashboard.png) |
-
-| Spatial Dynamic Token Routing |
-|:---:|
-| ![Token Routing](assets/token_routing.png) |
-
----
-
 ## 📊 Experimental Results
 
 **Dataset:** Tiny ImageNet-200 — a stratified subset of 20,000 images (100 per class, fixed seed 42), native resolution $64 \times 64$, encoded via a frozen VAE into an $8 \times 8 \times 4$ latent grid (64 spatial tokens).
