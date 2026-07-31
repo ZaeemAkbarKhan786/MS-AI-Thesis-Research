@@ -109,7 +109,7 @@ The training objective combines a **flow-matching velocity loss** with a **FLOPs
 
 | System Architecture | Trajectory Segmentation Analysis |
 |---|---|
-| ![HE-DiT Architecture](assets/architecture.png) | ![Trajectory Segmentation](assets/trajectory_segmentation.png) |
+| ![HE-DiT Architecture](assets/Methodology.png) | ![Trajectory Segmentation](assets/trajectory_segmentation.png) |
 
 | Stage-Specific Pruning Masks | Cost Reduction Dashboard |
 |---|---|
