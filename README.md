@@ -278,7 +278,7 @@ If you use this code or framework in your research, please cite our work:
 |---|---|---|
 | Zaeem Akbar Khan | Department of Computer Science, COMSATS University Islamabad | zaeemakbar.khan786@gmail.com |
 | Prof. Dr. Basit Raza | Department of Computer Science, COMSATS University Islamabad | basit.raza@comsats.edu.pk |
-| Qaiser Farooq | Department of Computer Science, COMSATS University Islamabad | qaiserfarooqw285@gmail.com |
+| Qaiser Farooq | Department of Computer Science, COMSATS University Islamabad | qaiserfarooq285@gmail.com |
 | Esha Javed | Department of Computer Science, COMSATS University Islamabad | eshajaved854@gmail.com |
 | Saba Zafar | Department of Computer Science, COMSATS University Islamabad | zsaba1134@gmail.com |
 | Hikmat Ullah | Department of Computer Science, COMSATS University Islamabad | hikmatwazir222@gmail.com |
